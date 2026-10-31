@@ -1,0 +1,21 @@
+# contest data and anything derived from it - never public
+contests/
+dataset_poc/
+eval_set/
+eval_runs*/
+runs_lora/
+sessions/
+notes/
+*.jsonl
+*.json
+!requirements*.json
+# local junk
+*.bak*
+__pycache__/
+*.pyc
+venv*/
+.env
+*.gguf
+*.safetensors
+out/
+cache/
