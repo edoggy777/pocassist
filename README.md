@@ -145,3 +145,5 @@ python plan_assemble.py --plan plan.json --project ~/targets/myproject --id H-01
 ## License
 
 See `LICENSE`.
+
+pocassist is not affiliated with or endorsed by Code4rena, Sherlock or any audit platform. Their names appear only where the tool describes report formats it can read.
