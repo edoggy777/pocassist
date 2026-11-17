@@ -1,3 +1,11 @@
+# Support
+
+If you find this project helpful, consider supporting it:
+
+**Ethereum:** `0x0CDdCff8f61B45fB2870d8Bd46A2170Af62220A4`
+
+[Donate with Ethereum](Eth:0x0CDdCff8f61B45fB2870d8Bd46A2170Af62220A4)
+
 # pocassist
 
 A local, Foundry-based toolkit for **proving smart-contract findings mechanically**. You (or a model) write the attack; the harness writes the test around it and decides whether the test really proves the bug.
